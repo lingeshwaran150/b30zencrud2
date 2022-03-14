@@ -1,0 +1,169 @@
+[
+    {
+      "id": "100",
+      "name": "APPLE-iPhone 13 Models",
+      "poster": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MLPF3HN_A_1.png?v=1632371107",
+      "model": "iPhone 13",
+      "price": 84900,
+      "storage": "64/128/256GB",
+      "battery": "3095 mAh",
+      "camera": "12MP+12 MP, f/1.6, 26mm (wide), 1.7µm, dual pixel PDAF, sensor-shift OIS",
+      "rating": 7.8
+    },
+    {
+      "id": "101",
+      "name": "APPLE-iPhone 13 Models",
+      "poster": "https://m.media-amazon.com/images/I/61jLiCovxVL._SL1500_.jpg",
+      "model": "iPhone-13-PRO",
+      "price": 129000,
+      "storage": "64/128/256GB",
+      "battery": "3095 mAh",
+      "camera": "Pro 12MP camera system: Telephoto, Wide and Ultra Wide cameras",
+      "rating": 8.5
+    },
+  
+    {
+      "id": "102",
+      "name": "APPLE-iPhone 13 Models",
+      "poster": "https://allmytech.pk/wp-content/uploads/2020/11/detail_ip12promax_uh_blk_06.jpg",
+      "model": "iPhone-13-PRO-MAX",
+      "price": 139000,
+      "storage": "64/128/256GB",
+      "battery": "4352 mAh",
+      "camera": "Pro 12MP camera system: Telephoto, Wide and Ultra Wide cameras",
+      "rating": 9
+    },
+    {
+      "id": "103",
+      "name": "APPLE-iPhone 13 Models",
+      "poster": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-midnight-select-2021?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1629907844000",
+      "model": "iPhone 13 MINI",
+      "price": 70000,
+      "storage": "64/128/256GB",
+      "battery": "3095 mAh",
+      "camera": "Dual 12MP camera system: Wide and Ultra Wide cameras",
+      "rating": 7
+    },
+    {
+      "id": "104",
+      "name": "APPLE-iPhone 13 Models",
+      "poster": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-Xs-combo-gold-09122018_big.jpg.large.jpg",
+      "model": "iPhone XS",
+      "price": 89900,
+      "storage": "64/128/256GB",
+      "battery": "3174 mAh",
+      "camera": "12MP dual rear cameras and a 7MP front camera",
+      "rating": 8
+    },
+    {
+      "id": "105",
+      "name": "APPLE-iPhone 12 Models",
+      "poster": "https://cdn.vox-cdn.com/thumbor/2C-mZegZvVMWDMJWqNyOiZg3vBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168448/vpavic_4547_20210421_0022.0.jpg",
+      "model": "iPhone-12",
+      "price": 60000,
+      "storage": "64/128/256GB",
+      "battery": "2,815 mAh",
+      "camera": "12-megapixel (wide), 12-megapixel (ultra-wide)",
+      "rating": 8.6
+    },
+    {
+      "id": "106",
+      "name": "APPLE-iPhone 12 Models",
+      "poster": "https://cdn.shopify.com/s/files/1/0409/7245/products/08_618f7daf-99ab-40b2-bd74-79753561fa3e_1800x1800.png?v=1604919870",
+      "model": "iPhone-12-PRO-MAX",
+      "price": 129000,
+      "storage": "64/128/256GB",
+      "battery": "3,687mAh",
+      "camera": "12-megapixel (wide), 12-megapixel (ultra-wide), 12-megapixel (telephoto)",
+      "rating": 8.5
+    },
+    {
+      "id": "107",
+      "name": "APPLE-iPhone 12 Models",
+      "poster": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61584/iphone-12-pro-max-graphite-hero-1024x768.jpg",
+      "model": "iPhone-12-PRO",
+      "price": 110000,
+      "storage": "64/128/256GB",
+      "battery": "3687mAh",
+      "camera": "12-megapixel (wide), 12-megapixel (ultra-wide), 12-megapixel (telephoto)",
+      "rating": 8.3
+    },
+    {
+      "id": "108",
+      "name": "APPLE-iPhone 12 Models",
+      "poster": "https://m.media-amazon.com/images/I/71i+-WmxHWL._SL1500_.jpg",
+      "model": "iPhone-12 MINI",
+      "price": 57900,
+      "storage": "64/128/256GB",
+      "battery": "2227mah",
+      "camera": " 12 MP sensor with 1.4µm pixels and 26 mm-equivalent f/1.6 lens, OIS, PDAF",
+      "rating": 7.7
+    },
+    {
+      "id": "109",
+      "name": "APPLE-iPhone 11 Models",
+      "poster": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MY122?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1590124283000",
+      "model": "iPhone-11-PRO",
+      "price": 109000,
+      "storage": "64/128/256GB",
+      "battery": "3046 mAh",
+      "camera": "12 MP (wide), f/2.2 aperture, 23mm, 1/3.6",
+      "rating": 7.9
+    },
+    {
+      "id": "110",
+      "name": "APPLE-iPhone 11 Models",
+      "poster": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWYY2_AV3?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1590871478000",
+      "model": "iPhone-11-PRO-MAX",
+      "price": 117000,
+      "storage": "64/128/256GB",
+      "battery": "3969 mAh",
+      "camera": "12 MP (wide), f/2.2 aperture, 23mm, 1/3.6",
+      "rating": 8.4
+    },
+    {
+      "id": "111",
+      "name": "APPLE-iPhone 11 Models",
+      "poster": "https://m.media-amazon.com/images/I/71kZfQA-Y7L.jpg",
+      "model": "iPhone-11",
+      "price": 59700,
+      "storage": "64/128/256GB",
+      "battery": "3,110 mAh",
+      "camera": " 12-megapixel wide-angle lens (26mm focal length)",
+      "rating": 8
+    },
+    {
+      "id": "112",
+      "name": "APPLE-iPhone 8 Models",
+      "poster": "https://cdn.vox-cdn.com/thumbor/fs74DtpJp0bKHQE379CsC4ukWF8=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10614517/iphone8red_1024.jpg",
+      "model": "iPhone-8",
+      "price": 41999,
+      "storage": "64/128/256GB",
+      "battery": "1821 mAh",
+      "camera": "12-megapixel",
+      "rating": 8
+    },
+    {
+      "id": "113",
+      "name": "APPLE-iPhone 8 Models",
+      "poster": "https://cdn.shopify.com/s/files/1/0521/6744/2596/products/iphone8plusp2_1024x1024.jpg?v=1621298355",
+      "model": "iPhone-8S",
+      "price": 71999,
+      "storage": "64/128/256GB",
+      "battery": "1821 mAh",
+      "camera": "12-megapixel",
+      "rating": 7.7
+    },
+    {
+      "id": "114",
+      "name": "APPLE-iPhone 7 Models",
+      "poster": "https://www.cultofmac.com/wp-content/uploads/2017/03/product-red-iphone-7-780x764.jpg",
+      "model": "iPhone-7S",
+      "price": 18799,
+      "storage": "64/128/256GB",
+      "battery": "2230 mAh",
+      "camera": "12-megapixel",
+      "rating": 7.8
+    }
+  ]
+  
